@@ -1,2 +1,5 @@
 #Ignorar archivos .toml
-*. toml
+#Profesor si lee esto no vi un espacio por eso en el primer pull mostro el toml :c
+#envie un segundo para evitar que se vea el toml
+*.toml
+
